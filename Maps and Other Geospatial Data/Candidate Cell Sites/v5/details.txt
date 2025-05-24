@@ -1,0 +1,1 @@
+These candidate cells have a clean attribute table possessing bldg. centrality, road km distance, elevation value, and cell assignment.

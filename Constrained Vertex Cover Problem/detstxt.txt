@@ -1,0 +1,10 @@
+"Cell_ID"  NOT IN (199, 2, 254, 24, 37, 29.0, 41.0, 50.0, 51.0, 60.0, 77.0, 85.0, 88.0, 98.0, 110.0, 121.0, 122.0, 132.0, 133.0, 141.0, 142.0, 156.0, 168.0, 178.0, 179.0, 211.0, 229.0, 231.0, 238.0, 242.0) = 0
+
+1. Add Service Levels to Candidate Cells [Finished]
+2. Create a script that extracts candidate cells with critical service level [Doing]
+3. Create a script that executes extract by location and then utilizes the overlap analysis for each of the critical cells. Add all overlap analysis results.
+4. Find all enhanced cells that are contained in the coverage derived from 3 and 4. THEN, perform 3 and 4 on them.
+5. Collect all cell sites that aren't contained in the current coverage. Execute extract by location and then utilizes the overlap analysis for each one. But don't add them up.
+6. Perform vertex/set cover problem algorithm
+
+

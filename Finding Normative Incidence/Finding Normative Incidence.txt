@@ -1,0 +1,15 @@
+Finding Normative Incidence
+
+> What?
+    > This feature of the simulation opt to provide the normative graph complete with nodes and adjacent edges.
+
+> What are the necessary elements of this feature?
+    1. A centroid shp file with coverage radius of 1500 meters.
+    2. My old CamiguinCellOptimizer6.py file
+
+> What will be the role of the centroid file?
+    The centroid file will give the presumed existence of cellular tower vertices which we will apply the coverage radius characteristics and its intersection with other coverage radius' will be interpreted as edges.
+
+> What will be the role of the CamiguinCellOptimizer6.py file?
+    The file will be the program that'll run the centroid file.
+

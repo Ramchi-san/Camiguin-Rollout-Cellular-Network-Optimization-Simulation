@@ -1,0 +1,1 @@
+These cell sites are refined by adding details of the nearest road, especially its distance away.
